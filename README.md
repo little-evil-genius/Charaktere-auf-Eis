@@ -40,6 +40,7 @@ Hinzugefügte Tabellen:
 
 # Empfehlungen 
 - <a href="https://github.com/MyBBStuff/MyAlerts" target="_blank">MyAlerts</a> von EuanT
+- <a href="https://mods.mybb.com/view/patches" target="_blank">Patches</a> von Andreas Klauer (<a href="https://storming-gates.de/showthread.php?tid=39879" target="_blank">Anleitung</a>
 
 # Profilfeld
 Damit das Plugin fehlerfrei funktioniert muss es ein Eiszeitprofilfeld vorhanden sein. Ich habe mich dagegen entschieden bei der Installation automatisch ein Profilfeld zu erstellen, denn evtl kommt es am Ende so, dass einige Boards dann doppelt so ein Profilfeld haben, weil sie vorher schon so eins erstellt haben.
