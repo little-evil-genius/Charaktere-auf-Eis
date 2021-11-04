@@ -59,7 +59,7 @@ Sichtbar für keine
 Bearbeitbar von keine
 
 # Sonstiges
-In meinem Board wollte ich die Charaktere auf Eis besonders darstellen, damit es erkennbar wird. Das ich keine extra Gruppe dafür erstellen wollte, habe ich mich an dem SG Tutorial "Teammitglieder ohne extra Gruppe gesondert markieren" https://storming-gates.de/showthread.php?tid=18840 orientiert und eine Abfrage dafür geschrieben. Wer das auch möchte kann dies auch einbauen.
+In meinem Board wollte ich die Charaktere auf Eis besonders darstellen, damit es erkennbar wird. Das ich keine extra Gruppe dafür erstellen wollte, habe ich mich an dem SG Tutorial <a href="https://storming-gates.de/showthread.php?tid=18840" target="_blank">Teammitglieder ohne extra Gruppe gesondert markieren</a> orientiert und eine Abfrage dafür geschrieben. Wer das auch möchte kann dies auch einbauen.
 Dafür muss man einmal die inc/functions.php an zwei Stellen bearbeiten. 
 1) sucht nach: 
 ```
