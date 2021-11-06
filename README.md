@@ -100,10 +100,10 @@ Wenn ihr noch möchtet, dass euch die Verlängerungen der Eiszeiten angezeigt we
 
 # Demo
 Eiszeit-Übersicht - Usersicht
-<img src="https://www.bilder-hochladen.net/files/big/m4bn-aa-1c47.png">
+<img src="https://www.bilder-hochladen.net/files/big/m4bn-af-be34.png">
 
 Eiszeit-Übersicht - Teamsicht
-<img src="https://www.bilder-hochladen.net/files/big/m4bn-a9-1248.png">
+<img src="https://www.bilder-hochladen.net/files/big/m4bn-ae-0244.png">
 
 Maximal Limit beim Enddatum
 
