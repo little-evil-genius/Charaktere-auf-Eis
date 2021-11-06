@@ -108,3 +108,9 @@ Maximal Limit beim Enddatum
 
 ModCP
 <img src="https://www.bilder-hochladen.net/files/m4bn-a8-2ddb.png">
+
+Banner Alert fürs Team
+<img src="https://www.bilder-hochladen.net/files/m4bn-ac-8297.png">
+
+Banner Alert für User
+<img src="https://www.bilder-hochladen.net/files/m4bn-ad-1631.png">
