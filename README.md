@@ -58,8 +58,8 @@ In Beiträgen anzeigen? euch überlassen
 Sichtbar für keine
 Bearbeitbar von keine
 
-# Sonstiges
-In meinem Board wollte ich die Charaktere auf Eis besonders darstellen, damit es erkennbar wird. Das ich keine extra Gruppe dafür erstellen wollte, habe ich mich an dem SG Tutorial <a href="https://storming-gates.de/showthread.php?tid=18840" target="_blank">Teammitglieder ohne extra Gruppe gesondert markieren</a> orientiert und eine Abfrage dafür geschrieben. Wer das auch möchte kann dies auch einbauen.
+# Sonstiges - Darstellung von auf Eis Charakteren
+In meinem Board wollte ich die Charaktere auf Eis besonders darstellen, damit es erkennbar wird wer auf Eis liegt, ohne das man erst die Liste aufrufen muss. Das ich keine extra Gruppe dafür erstellen wollte, habe ich mich an dem SG Tutorial <a href="https://storming-gates.de/showthread.php?tid=18840" target="_blank">Teammitglieder ohne extra Gruppe gesondert markieren</a> orientiert und eine Abfrage dafür geschrieben. Wer das auch möchte kann dies recht einfach einbauen. Ich habe es mit Patches bei mir eingebaut.
 Dafür muss man einmal die inc/functions.php an zwei Stellen bearbeiten. 
 1) sucht nach: 
 ```
@@ -90,6 +90,9 @@ class=\"....\"
 ```
 So sieht das ganze nun bei mir aus:
 <img src="https://www.bilder-hochladen.net/files/m4bn-a6-3f1d.png">
+
+# Sonstiges - Verlängerungen anzeigen lassen
+Wenn ihr noch möchtet, dass euch die Verlängerungen der Eiszeiten angezeigt werden, dann müsst ihr nur im Template <b>ice_userbit</b> die Variabele {$extension} hinzufügen. Diese fügt diesen Teil hinzu: "0x verlängert". Die 0 verändert sich natürlich nach dem Wert, welcher in der Datenbank steht.
 
 # Links
 - https://euerforum.de/misc.php?action=ice
