@@ -3,7 +3,7 @@ Dieses Plugin erweitert das Board um eine Übersicht von Charakteren auf Eis. Au
 Neue Eiszeiten müssen erst vom Team freigeschaltet werden. Teamaccounts werden automatisch freigeschaltet. Beim Freischalten wird dem Team angezeigt, wie viele Charaktere von dem User schon auf Eis liegen und wie viele Charaktere dieser User insgesamt besitzt. Das Team wird über einen Index-Alertbanner über neue Eiszeiten informiert.
 Eiszeiten können nach Einstellungen verlängert werden. Mit maximal Anzahl der selbstständigen Verlängerungen und die Anzahl der Tage einer Verlängerung. Durch den Accountswitcher kann man mit all seinen Accounts diesen Button sehen. Das Team hat immer die Möglichkeit. Auch besitzt nur das Team die Möglichkeit User von dieser Liste zu streichen. So behält das Team eine Übersicht.<br>
 Der User erhält ab einer festgelegten Anzahl an Tagen vor ablaufen seiner Frist eine Benachrichtigung auf dem Index. Diesen Banner sieht der User mit allen Charakteren, die per Accountswitcher angehängt sind.<br>
-Wenn sich ein Charaktere auf Eis gelegt wird, wird ein entsprechende Profilfeld auf Ja gesetzt und kann so auch für andere Plugins wie das Whiteliste oder Blacklist Plugin von aheartforspinach (Sophie) genutzt werden. Die Eiszeitübersicht kann auf Wunsch vor Gäste versteckt werden.
+Wenn ein Charaktere auf Eis gelegt wird, wird ein entsprechendes Profilfeld auf Ja gesetzt und kann so auch für andere Plugins wie das Whiteliste oder Blacklist Plugin von aheartforspinach (Sophie) genutzt werden. Die Eiszeitübersicht kann auf Wunsch vor Gäste versteckt werden.
 
 # Datenbank-Änderungen
 Hinzugefügte Tabellen:
