@@ -119,3 +119,6 @@ Banner Alert fürs Team
 
 Banner Alert für User
 <img src="https://www.bilder-hochladen.net/files/m4bn-ad-1631.png">
+
+Profil-Notiz
+<img src="https://www.bilder-hochladen.net/files/m4bn-ag-4333.png">
