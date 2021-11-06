@@ -2,8 +2,6 @@
 
 // ÜBERSICHTSSEITE
 $l['ice_page_title'] = "Charaktere auf Eis";
-$l['ice_page_desc'] = "Ob aus zeitlichen Gründen oder weil ihr mit dem Charakter im Moment nicht mehr klarkommt, bei uns könnt ihr eure Charaktere für drei Monate auf Eis legen lassen. Dabei ist es egal, ob es nur einer ist oder eure ganze Bande auf der Liste steht. Wir verstehen, dass jeder mal eine Auszeit braucht und Schwierigkeiten mit Charakteren hier und da auftreten, weswegen wir euch in der Anzahl der Charaktere, die man auf Eis legen darf, nicht limitieren wollen.
-Nach einer abgelaufenen Eiszeit müsst ihr jedoch posten, bevor ihr euch wieder abwesend melden könnt.";
 $l['ice_page_name'] = "Charaktere";
 $l['ice_page_days'] = "verbleibende Tage";
 $l['ice_userbit_extension'] = "{1}x verlängert";
