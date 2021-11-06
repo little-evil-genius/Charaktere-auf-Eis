@@ -623,6 +623,15 @@ function ice_misc(){
 		$charas_select .= "<option value='{$chara}'>{$chara}</option>";
 	}
 
+    // gelöschte User rausschmeißen
+    $allDeletedIce = $db->query("SELECT uid FROM ".TABLE_PREFIX."ice
+	WHERE uid NOT IN(SELECT uid FROM ".TABLE_PREFIX."users)
+	");
+
+    while ($deletedIce = $db->fetch_array($allDeletedIce)) {
+        $db->delete_query('ice', 'uid = ' . $deletedIce['uid']);
+    }
+
     // EISZEIT-ÜBERSICHT
     if($mybb->input['action'] == "ice"){
 
