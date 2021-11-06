@@ -18,8 +18,9 @@ Hinzugefügte Tabellen:
 - ice_userbit
 
 # Template Änderungen - neue Variablen
-- header - {$ice_headerUser}{$ice_headerTeam}
+- header - {$ice_headerUser}{$ice_headerTeam}{$ice_newIcetime}
 - modcp_nav_users - {$nav_ice}
+- member_profile - {$ice_memberprofile}
 
 # ACP-Einstellungen - Charaktere auf Eis
 - Benutzergruppen
@@ -31,6 +32,7 @@ Hinzugefügte Tabellen:
 - Anzahl der Verlängerungen
 - Verlängerungszeitraum
 - Gäste Ansicht
+- Profil Notiz
 - Listen PHP (Navigation Ergänzung)
 
 # Voraussetzungen
