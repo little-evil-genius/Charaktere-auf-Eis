@@ -51,7 +51,7 @@ function ice_install(){
         `extension` int(10) DEFAULT 0,
         `acceptedTeam` int(10),
         PRIMARY KEY(`ice_id`),
-        KEY `sid` (`ice_id`)
+        KEY `ice_id` (`ice_id`)
         )
         ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci AUTO_INCREMENT=1
     ");
