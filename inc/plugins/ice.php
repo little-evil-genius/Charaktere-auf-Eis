@@ -581,6 +581,10 @@ function ice_global() {
         }
 
     }
+	
+    if ($user_id == 0) {
+        $ice_headerUser ="";
+    }
 }
 
 // DIE ÜBERSICHTSSEITE
