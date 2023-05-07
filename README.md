@@ -92,7 +92,7 @@ Durch diese Änderung behält der Charaktere immer noch seine eigentliche Gruppe
 class=\"....\"
 ```
 So sieht das ganze nun bei mir aus:
-<img src="https://www.bilder-hochladen.net/files/m4bn-a6-3f1d.png">
+<img src="https://stormborn.at/plugins/ice_name.png">
 
 # Sonstiges - Verlängerungen anzeigen lassen
 Wenn ihr noch möchtet, dass euch die Verlängerungen der Eiszeiten angezeigt werden, dann müsst ihr nur im Template <b>ice_userbit</b> die Variabele {$extension} hinzufügen. Diese fügt diesen Teil hinzu: "0x verlängert". Die 0 verändert sich natürlich nach dem Wert, welcher in der Datenbank steht.
@@ -102,24 +102,23 @@ Wenn ihr noch möchtet, dass euch die Verlängerungen der Eiszeiten angezeigt we
 - https://euerforum.de/modcp.php?action=ice
 
 # Demo
-Eiszeit-Übersicht - Usersicht
-<img src="https://www.bilder-hochladen.net/files/big/m4bn-af-be34.png">
+Eiszeit-Übersicht - Usersicht<p>
+<img src="https://stormborn.at/plugins/ice_uebersicht_user.png">
 
-Eiszeit-Übersicht - Teamsicht
-<img src="https://www.bilder-hochladen.net/files/big/m4bn-ae-0244.png">
+Eiszeit-Übersicht - Teamsicht<p>
+<img src="https://stormborn.at/plugins/ice_uebersicht_team.png">
 
-Maximal Limit beim Enddatum
+Maximal Limit beim Enddatum<p>
+<img src="https://stormborn.at/plugins/ice_add.png">
 
-<img src="https://www.bilder-hochladen.net/files/big/m4bn-a7-f0b0.png">
+ModCP<p>
+<img src="https://stormborn.at/plugins/ice_modcp.png">
 
-ModCP
-<img src="https://www.bilder-hochladen.net/files/m4bn-a8-2ddb.png">
+Banner Alert fürs Team<p>
+<img src="https://stormborn.at/plugins/ice_alert_team.png">
 
-Banner Alert fürs Team
-<img src="https://www.bilder-hochladen.net/files/m4bn-ac-8297.png">
+Banner Alert für User<p>
+<img src="https://stormborn.at/plugins/ice_alert_user.png">
 
-Banner Alert für User
-<img src="https://www.bilder-hochladen.net/files/m4bn-ad-1631.png">
-
-Profil-Notiz
-<img src="https://www.bilder-hochladen.net/files/m4bn-ag-4333.png">
+Profil-Notiz<p>
+<img src="https://stormborn.at/plugins/ice_profil.png">
