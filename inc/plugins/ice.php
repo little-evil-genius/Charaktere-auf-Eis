@@ -1079,7 +1079,11 @@ function ice_get_allchars($user_id) {
     global $db, $mybb;
 
     //für den fall nicht mit hauptaccount online
-    $as_uid = intval($mybb->user['as_uid']);
+    if (isset(get_user($user_id)['as_uid'])) {
+        $as_uid = intval(get_user($user_id)['as_uid']);
+    } else {
+        $as_uid = 0;
+    }
 
     $charas = array();
     if ($as_uid == 0) {
